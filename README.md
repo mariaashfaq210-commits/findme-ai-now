@@ -1,43 +1,94 @@
-# FindMe AI Now
+# FindMe AI
 
 ## Problem
-Students and users waste time trying to find accurate information quickly.
+
+Every year, thousands of people go missing, and families often struggle to report, search, and share information quickly. Existing methods are slow and scattered across different platforms.
 
 ## Solution
-FindMe AI Now is an AI-powered web app that helps users search for information and receive intelligent responses.
+
+**FindMe AI** is an AI-powered web application that helps users report missing and found persons, search existing reports, and use AI to identify possible matches. The goal is to make the search process faster, easier, and more organized.
 
 ## Live Demo
-https://findmeainow.lovable.app/dashboard
+
+https://findmeainow.lovable.app
+
+## GitHub Repository
+
+https://github.com/mariaashfaq210/findme-ai-now
+
 ## Features
-- User-friendly interface
-- AI-powered responses
+
+- User Registration and Login
+- Report Missing Person
+- Report Found Person
+- Search Missing Persons
+- AI-Powered Matching
+- Responsive User Interface
 - Dashboard
-- Fast search
-- Responsive design
+- Fast and Easy Navigation
 
 ## AI Feature
-The app uses AI to understand user questions and generate helpful responses.
+
+The application uses AI to compare user reports and suggest possible matches between missing and found persons.
 
 ### System Prompt
-"You are a helpful AI assistant. Answer user questions clearly, accurately, and concisely."
+
+> "You are an AI assistant that compares missing and found person reports. Analyze the provided information and suggest the most likely matches based on appearance, age, location, and other available details. Return clear and accurate results."
 
 ## Technologies Used
+
 - Lovable
 - React
-- OpenAI (or the model you used)
-- Vercel/Lovable Hosting
+- TypeScript
+- Tailwind CSS
+- OpenAI API
+- GitHub
+- Vercel
 
 ## Screenshots
 
-<img width="547" height="1004" alt="Screenshot 2026-07-27 202312" src="https://github.com/user-attachments/assets/766f5a6a-dccc-4db6-aad6-cc7bbde5046d" />
-<img width="552" height="986" alt="Screenshot 2026-07-27 202546" src="https://github.com/user-attachments/assets/008b9713-211c-4269-92c2-b9b8881e4d1d" />
-<img width="1843" height="874" alt="Screenshot 2026-07-27 202644" src="https://github.com/user-attachments/assets/e793f1e2-6d81-49a6-ab58-9146e53eb827" />
-<img width="581" height="974" alt="Screenshot 2026-07-27 202822" src="https://github.com/user-attachments/assets/01861ec5-b01a-4c71-9a36-8632da12d8e7" />
+Add at least 3 screenshots here:
 
+1. Home Page
+   <img width="1843" height="874" alt="Screenshot 2026-07-27 202644" src="https://github.com/user-attachments/assets/c75afdda-25d4-4674-91c3-536d43ec0c93" />
+
+2. Report Missing Page
+3. 
+4. AI Search / Matching Page
 
 ## How to Run
-1. Clone the repository
-2. Install dependencies
-3. Add environment variables
-4. Run npm install
-5. Run npm start
+
+1. Clone the repository.
+2. Install dependencies.
+
+```bash
+npm install
+```
+
+3. Create a `.env` file and add the required API keys.
+
+4. Start the development server.
+
+```bash
+npm run dev
+```
+
+5. Open:
+
+```
+http://localhost:3000
+```
+
+## Future Improvements
+
+- Face Recognition
+- GPS Location Tracking
+- Real-Time Notifications
+- Mobile Application
+- Multi-language Support
+
+## Developed By
+
+**Maria Ashfaq**
+
+BS Computer Science Final Project
