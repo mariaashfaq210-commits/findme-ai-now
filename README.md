@@ -53,9 +53,13 @@ Add at least 3 screenshots here:
    <img width="1843" height="874" alt="Screenshot 2026-07-27 202644" src="https://github.com/user-attachments/assets/c75afdda-25d4-4674-91c3-536d43ec0c93" />
 
 2. Report Missing Page
-3. 
-4. AI Search / Matching Page
+   <img width="275" height="499" alt="image" src="https://github.com/user-attachments/assets/81e78fbd-f157-4675-bf04-59014f2c1971" />
 
+4. <img width="277" height="497" alt="image" src="https://github.com/user-attachments/assets/29973063-2324-4c36-99f1-5f15a1a21ea2" />
+
+
+5. AI Search / Matching Page
+<img width="272" height="498" alt="image" src="https://github.com/user-attachments/assets/496e3eff-8bd5-4a05-b84f-0f1f4d053d39" />
 ## How to Run
 
 1. Clone the repository.
