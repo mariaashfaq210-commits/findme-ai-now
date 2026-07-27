@@ -49,33 +49,17 @@ The application uses AI to compare user reports and suggest possible matches bet
 
 <img width="272" height="487" alt="image" src="https://github.com/user-attachments/assets/227be630-3bcf-43f2-a1c6-ce2629365b52" />
 
-
-
-
-
-4. Report Missing Page
+2.Dashdoard:
    <img width="277" height="494" alt="image" src="https://github.com/user-attachments/assets/d1fa96ac-f64a-463b-935d-4a4efe4c2868" />
 
-   
+3. Report Missing Page:
+              <img width="275" height="499" alt="image" src="https://github.com/user-attachments/assets/81e78fbd-f157-4675-bf04-59014f2c1971" />
 
-
-
-
-
-4. Report Missing Page   <img width="275" height="499" alt="image" src="https://github.com/user-attachments/assets/81e78fbd-f157-4675-bf04-59014f2c1971" />
-
-   
-
-
-
- 5. Dashboard
+   4. Dashboard
         <img width="277" height="497" alt="image" src="https://github.com/user-attachments/assets/29973063-2324-4c36-99f1-5f15a1a21ea2" />
 
-
-
-
-
-6. AI Search / Matching Page                 <img width="272" height="498" alt="image" src="https://github.com/user-attachments/assets/496e3eff-8bd5-4a05-b84f-0f1f4d053d39" />
+5. AI Search / Matching Page
+              <img width="272" height="498" alt="image" src="https://github.com/user-attachments/assets/496e3eff-8bd5-4a05-b84f-0f1f4d053d39" />
 
 
 ## How to Run
