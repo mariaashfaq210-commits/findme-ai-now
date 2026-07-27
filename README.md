@@ -12,9 +12,7 @@ Every year, thousands of people go missing, and families often struggle to repor
 
 https://findmeainow.lovable.app
 
-## GitHub Repository
 
-https://github.com/mariaashfaq210/findme-ai-now
 
 ## Features
 
